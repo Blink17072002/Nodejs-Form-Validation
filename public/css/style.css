@@ -26,7 +26,7 @@ body{
 }
 
 .header h2{
-    margin: 0;
+    margin-left: 30%;
 }
 
 .form{
@@ -113,4 +113,16 @@ body{
 .form button:active {
     background-color: #7d3c96;
     transform: translateY(0);
+}
+
+#gender{
+    cursor: pointer;
+}
+
+footer{
+    margin-left: 30%;
+}
+
+footer a{
+    text-decoration: none;
 }
